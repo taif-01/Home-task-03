@@ -1,0 +1,39 @@
+#title-name {
+    text-align: center;
+    font-size: larger;
+    font-weight: 800;
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  form {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    
+  }
+  .form-group {
+    margin-bottom: 15px;
+  }
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  input,
+  select,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 50px;
+  }
+  button {
+    padding: 10px 15px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
